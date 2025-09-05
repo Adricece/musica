@@ -474,6 +474,15 @@ const musicData = {
         "song": "SAIKO BAD.mp3",
         "cover": "imagenes/sk.jpg"
       }
+    },
+    {
+      "bg": "#2596be",
+      "artist": "Eladio Carrion, Michael Sembello, Adricece",
+      "songName": "Maniac (Ft. Eladio Carrion)",
+      "files": {
+        "song": "ela maniac acabada.mp3",
+        "cover": "imagenes/ela0509.jpg"
+      }
     }
   ]
 };
